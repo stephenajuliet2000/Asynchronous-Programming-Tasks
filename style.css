@@ -1,0 +1,18 @@
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    background-color: rgb(212, 245, 212);
+   
+}
+
+#countdown {
+
+     font-size: 85px;
+     font-weight: 1000;
+     padding: 10px;
+
+}
